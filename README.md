@@ -24,3 +24,5 @@ clan://localhost/TVBox/tvbox.json=
 注：
 `base64在线加密解密 https://www.iamwawa.cn/base64.html`
 
+##### 大佬仓
+`https://github.com/YuanHsing/freed`

@@ -9,18 +9,18 @@ https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
 http://www.kf666888.cn/api/tvbox?peizhi=888
 
 
-
+> 在线接口需要大佬维护
 
 ### 本地接口样式
 
-==clan://localhost/TVBox/tvbox.json==
+```
+clan://localhost/TVBox/tvbox.json=
+```
 
 
 
 
 
 注：
-``
-base64在线加密解密 https://www.iamwawa.cn/base64.html
-``
+`base64在线加密解密 https://www.iamwawa.cn/base64.html`
 

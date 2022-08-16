@@ -26,3 +26,5 @@ clan://localhost/TVBox/tvbox.json=
 
 ##### 大佬仓
 `https://github.com/YuanHsing/freed`
+
+`https://github.com/tv-player/TvBox`

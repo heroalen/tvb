@@ -14,7 +14,7 @@ http://www.kf666888.cn/api/tvbox?peizhi=888
 ### 本地接口样式
 
 ```
-clan://localhost/TVBox/tvbox.json=
+clan://localhost/TVBox/tvbox.json
 ```
 
 

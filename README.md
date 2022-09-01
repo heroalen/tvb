@@ -3,6 +3,10 @@
 刚刚：
 http://xn--4bra.live/gg.json
 
+[大聪明leevi:](https://gitea.com/leevi) 
+https://gitea.com/leevi/NingMengDrink/raw/branch/main/ziyong.json
+
+
 月光宝盒：
 https://guot55.github.io/TV/gr.txt
 

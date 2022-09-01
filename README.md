@@ -80,6 +80,8 @@ clan://localhost/TVBox/tvbox.json
 ```
 
 
+##### tvbmax开源
+https://maoyingshi.cc/
 
 
 

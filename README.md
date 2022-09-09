@@ -88,6 +88,8 @@ clan://localhost/TVBox/tvbox.json
 ##### tvbmax开源
 https://maoyingshi.cc/
 
+https://www.yydsys.top/box/
+
 
 
 注：

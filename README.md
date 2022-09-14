@@ -21,8 +21,6 @@ https://guot55.github.io/mao/1.json
 
 线路汇总：
 
-线路♻️外链',https://out.zxglife.top/down.php/5da920895444ba485dde96b5425b8a67.txt
-
 线路🍐木极',https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt
 
 线路🍊繁叶云',https://apis.fanyeyun.com/down.php/2664dabf44e1b55919f481903a178cba.txt
@@ -55,11 +53,7 @@ https://guot55.github.io/mao/1.json
 
 线路🧕懒人vyo2',https://box.okeybox.top/tv/vyo2.json
 
-线路👷懒人fj0p',https://box.okeybox.top/tv/fj0p.json
-
 线路🎅懒人fj0p',https://box.okeybox.top/tv/fj0p.json
-
-线路🥑gitea/xyyx',https://gitea.com/xyyx/TVBox/raw/branch/main/tv.json
 
 线路🍌gitea/终南',https://gitea.com/kanwidgg/kankan/raw/branch/main/0821XC/XC.json
 

@@ -23,13 +23,7 @@ https://guot55.github.io/mao/1.json
 
 线路🍐木极',https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt
 
-线路🍊繁叶云',https://apis.fanyeyun.com/down.php/2664dabf44e1b55919f481903a178cba.txt
-
-线路🍒军碟',http://home.jundie.top:81/TVBox/yosakoi.json
-
 线路🍑凯速/2863',http://s.nxw.so/vip
-
-线路🎁BOX',http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
 
 线路🌈佰欣园',https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
 
@@ -49,23 +43,7 @@ https://guot55.github.io/mao/1.json
 
 线路🛀🏻刚刚',http://xn--4bra.live/gg.json
 
-线路🙇懒人shyi',https://box.okeybox.top/tv/shyi.json
-
-线路🧕懒人vyo2',https://box.okeybox.top/tv/vyo2.json
-
-线路🎅懒人fj0p',https://box.okeybox.top/tv/fj0p.json
-
-线路🍌gitea/终南',https://gitea.com/kanwidgg/kankan/raw/branch/main/0821XC/XC.json
-
-线路🍉gitea/jiao',https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/0821.json
-
-线路🍇gitea/GG',https://gitea.com/kanwidgg/kankan/raw/branch/main/002-0821/gg.json
-
 线路🍓gitea/盒子',https://gitea.com/playgayme/boxRepository/raw/branch/main/TVBox/xzy.json
-
-线路🍈gitea/aziy',https://gitea.com/yuegu09/aziy/raw/branch/main/zi71501.json
-
-线路🎈gitea/820',https://gitea.com/hongdeng98/YH/raw/branch/main/Mao0820.json
 
 正常接口👆
 

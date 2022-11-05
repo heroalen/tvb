@@ -3,11 +3,6 @@
 刚刚：
 http://xn--4bra.live/gg.json
 
-[大聪明leevi:](https://gitea.com/leevi) 
-
-https://gitea.com/leevi/NingMengDrink/raw/branch/main/ziyong.json
-
-
 月光宝盒：
 https://guot55.github.io/TV/gr.txt
 
@@ -44,8 +39,6 @@ https://guot55.github.io/mao/1.json
 线路❄️冰河',https://ju.binghe.ga/4.txt
 
 线路🛀🏻刚刚',http://xn--4bra.live/gg.json
-
-线路🍓gitea/盒子',https://gitea.com/playgayme/boxRepository/raw/branch/main/TVBox/xzy.json
 
 正常接口👆
 

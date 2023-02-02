@@ -3,6 +3,13 @@
 刚刚：
 http://xn--4bra.live/gg.json
 
+挂机中：
+https://raw.fastgit.org/2hacc/TVBox/main/tvbox
+
+https://raw.fastgit.org/2hacc/TVBox/main/H/h
+
+
+
 月光宝盒：
 https://guot55.github.io/TV/gr.txt
 

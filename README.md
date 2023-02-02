@@ -1,8 +1,5 @@
 ### 在线接口：
 
-刚刚：
-http://xn--4bra.live/gg.json
-
 挂机中：
 https://raw.fastgit.org/2hacc/TVBox/main/tvbox
 
@@ -16,8 +13,6 @@ https://guot55.github.io/TV/gr.txt
 https://guot55.github.io/gg/gg.json
 
 https://guot55.github.io/gg1/qh.json 
-
-http://shuyuan.miaogongzi.net/shuyuan/1663651243.txt
 
 含18🈲👆
 
@@ -44,8 +39,6 @@ https://guot55.github.io/mao/1.json
 线路🐯胖虎',https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json
 
 线路❄️冰河',https://ju.binghe.ga/4.txt
-
-线路🛀🏻刚刚',http://xn--4bra.live/gg.json
 
 正常接口👆
 

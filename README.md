@@ -58,6 +58,13 @@ https://maoyingshi.cc/
 https://www.yydsys.top/box/
 
 
+肥猫：
+https://xn--z7x900a.love/
+
+饭太硬：
+http://xn--sss604efuw.ga/
+
+
 
 注：
 `base64在线加密解密 https://www.iamwawa.cn/base64.html`
